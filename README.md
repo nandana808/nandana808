@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **nandanapv966@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NIS-cJC2_e6c6ATJ2smdJvm-lQFzaHLz/view?usp=drive_link](https://drive.google.com/file/d/1NIS-cJC2_e6c6ATJ2smdJvm-lQFzaHLz/view?usp=drive_link)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1NIS-cJC2_e6c6ATJ2smdJvm-lQFzaHLz/view?usp=drive_link](https://drive.google.com/file/d/1NIS-cJC2_e6c6ATJ2smdJvm-lQFzaHLz/view?usp=drive_link)](https://1drv.ms/b/c/4ef65dade40977a8/IQDePKFHjgpnT7JWikH-51Q3AbHuQ4PwQ2LBrgVdi4oI5Cc?e=ke4IKl)
 
 - ⚡ Fun fact **I enjoy solving coding challenges and continuously learning new technologies to build impactful AI-driven solutions.**
 
